@@ -1,6 +1,0 @@
-<script>start("c:\\Users\\karce\\OneDrive\\Рабочий стол\\проект работа\\scr\\");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("assets","assets",1,0,"0 B",1732713060,"11/27/24, 4:11:00 PM");</script>
-<script>addRow("app.js","app.js",0,1486,"1.5 kB",1732717478,"11/27/24, 5:24:38 PM");</script>
-<script>addRow("index.html","index.html",0,601,"601 B",1732717478,"11/27/24, 5:24:38 PM");</script>
-<script>addRow("styles.css","styles.css",0,1329,"1.3 kB",1732717478,"11/27/24, 5:24:38 PM");</script>
